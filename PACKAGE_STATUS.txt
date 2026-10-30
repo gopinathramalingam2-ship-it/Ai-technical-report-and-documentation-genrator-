@@ -1,0 +1,3 @@
+CAPSTONE 10 PACKAGE GENERATED
+Includes report DOCX/PDF, 7-slide PPTX, Python automation, JSON notes template, observation CSV, comparison XLSX, prompts, README, verification checklist, error log and demo guide.
+IMPORTANT: No actual hardware measurements were provided. Fill in your own data before final submission.
